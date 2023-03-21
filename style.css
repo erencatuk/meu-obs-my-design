@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #002664 !important;
+    padding: 15px;
+  }
+  
+  .navbar-brand img {
+    height: 80px;
+    width: 80px;
+  }
+  
+  .navbar-text {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  
+  
